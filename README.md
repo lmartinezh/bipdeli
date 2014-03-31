@@ -1,7 +1,7 @@
 BIPDELI
 =======
 
-Bipdeli is the easiest way to add Bitcoin URI to accept donations to your GitHub projects
+Bipdeli is the easiest way to add a Bitcoin donation button to your GitHub projects.
 
 URI Scheme based under [BIP 21](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki)
 
